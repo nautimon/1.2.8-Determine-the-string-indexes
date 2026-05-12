@@ -1,7 +1,7 @@
-console.log("violin"[/* enter the index here */ ] === "l");
+console.log("violin"[3] === "l");
 
-console.log("flute"[/* enter the index here */ ] === "u");
+console.log("flute"[2] === "u");
 
-console.log("xylophone"[/* enter the index here */ ] === "x");
+console.log("xylophone"[0] === "x");
 
-console.log("bassoon"[/* enter the index here */ ] === "n");
+console.log("bassoon"[6] === "n");
